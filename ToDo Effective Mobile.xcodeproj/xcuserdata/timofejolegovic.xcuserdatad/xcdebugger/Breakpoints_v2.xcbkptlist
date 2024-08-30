@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9FEBD307-FF08-4321-9E8C-B2711D51F10B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3F2DB7D-E8B8-4033-9705-0C2FA0324B26"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDo Effective Mobile/Extenstion/Extension + UIViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "UIViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "B3F2DB7D-E8B8-4033-9705-0C2FA0324B26 - 65a8475133626786"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIViewController.addTaskAlert() -&gt; ()"
+                  moduleName = "ToDo Effective Mobile"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timofejolegovic/Desktop/Pet%20Project%20ios/ToDo%20Effective%20Mobile/ToDo%20Effective%20Mobile/Extenstion/Extension%20+%20UIViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6">
+               </Location>
+               <Location
+                  uuid = "B3F2DB7D-E8B8-4033-9705-0C2FA0324B26 - 94df733e993f7316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UITextField) -&gt; () in __C.UIViewController.addTaskAlert() -&gt; ()"
+                  moduleName = "ToDo Effective Mobile"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timofejolegovic/Desktop/Pet%20Project%20ios/ToDo%20Effective%20Mobile/ToDo%20Effective%20Mobile/Extenstion/Extension%20+%20UIViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
